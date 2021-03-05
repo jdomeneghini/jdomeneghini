@@ -18,9 +18,9 @@ Don't hesitate to send me a message if you have any questions.
 <a href = https://www.linkedin.com/in/jdomeneghini target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 
 
-<p align = "center" > Number of visits 
+<p align = "center" > Number of visits </p>
 
-![VisitorCount](https://profile-counter.glitch.me/{jdomeneghini}/count.svg)</p>
+<p align= "center">![VisitorCount](https://profile-counter.glitch.me/{jdomeneghini}/count.svg)</p>
 
 
  
