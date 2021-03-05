@@ -20,10 +20,10 @@ Don't hesitate to send me a message if you have any questions.
 
 
 
-<p align = "center" > Number of visits </p>
 
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <p align= "center"> ![VisitorCount](https://profile-counter.glitch.me/{jdomeneghini}/count.svg) </p>
 
 
  
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jdomeneghini&color=lightgrey&style=plastic" /></p>
