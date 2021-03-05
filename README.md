@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img src="banner1.png" >
+</p>
 
-<!--
-**jdomeneghini/jdomeneghini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Jéssica 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm starting my career in Data Science and Machine Learning.
+I have skills in programming and data analytics, using Python.
+
+My GitHub profile is a place where I showcase my personal projects, sharing some of my knowledge and my codes to help or inspire someone as well.
+
+Don't hesitate to send me a message if you have any questions.
+
+[LinkedIn](https://www.linkedin.com/in/jdomeneghini)
