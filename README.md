@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.png" >
+    <img src="https://github.com/jdomeneghini/Data_Science/blob/master/banner1.png?raw=true" >
 </p>
 
 ### Hi, I'm Jéssica 👋
@@ -12,4 +12,4 @@ My GitHub profile is a place where I showcase my personal projects, sharing some
 
 Don't hesitate to send me a message if you have any questions.
 
-[LinkedIn](https://www.linkedin.com/in/jdomeneghini)
+My Linkedin Profile -> [LinkedIn](https://www.linkedin.com/in/jdomeneghini)
