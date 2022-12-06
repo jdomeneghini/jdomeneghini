@@ -5,7 +5,7 @@
 ### Hi, I'm Jéssica 👋
 
 
-I'm starting my career in Data Science and Machine Learning.
+I'm currently specializing in Data Science and Machine Learning.
 I have skills in programming and data analytics, using Python.
 
 My GitHub profile is a place where I showcase my personal projects, sharing some of my knowledge and my codes to help or inspire someone as well.
